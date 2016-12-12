@@ -1,4 +1,4 @@
-[![Voicybot](/img/logo.png?raw=true)](https://voicybot.com/)
+[![Voicybot](/img/logo.png?raw=true)](http://voicybot.com/)
 
 # [@voicybot](https://telegram.me/voicybot) localization files
 This repository contains all the strings used in this bot with an instrument to localize them to different languages. If you want add your language to [@voicybot](https://telegram.me/voicybot), please fork, edit `strings.js` file and submit new pull request.
