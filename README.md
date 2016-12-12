@@ -18,7 +18,7 @@ const localize = new Localize({
   },
 });
 ```
-Please note that all contributors whos translations were accepted will receive 10,000 seconds of Google Speech voice recognition as a reward.
+Please note that all contributors whos translations were accepted will receive 10,000 seconds of Google Speech voice recognition as a reward. If you want to receive the reward, please notify [@borodutch](https://telegram.me/borodutch) about your efforts. Thank you!
 
 # As seen on
 [![Habrahabr](/img/habr.png?raw=true)](https://habrahabr.ru/post/316824/)
