@@ -18,6 +18,8 @@ const localize = new Localize({
   },
 });
 ```
+Alernatively, you can fetch `strings.txt`, translate all phrases from there to your language, and send the resulting file to [@borodutch](https://telegram.me/borodutch). In this case, please, make sure that your language haven't already been translated in `strings.js`.
+
 Please note that all contributors whos translations were accepted will receive 10,000 seconds of Google Speech voice recognition as a reward. If you want to receive the reward, please notify [@borodutch](https://telegram.me/borodutch) about your efforts. Thank you!
 
 # As seen on
