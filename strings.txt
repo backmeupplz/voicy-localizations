@@ -37,3 +37,7 @@
 '_🦄 Voice recognition is initiated..._'
 
 '_👮 Please, speak clearly, I couldn\'t recognize that_'
+
+'😅 Looks like you have already applied Product Hunt discount. Your first 100,000 Google Speech seconds are 50% off. Enjoy! 🐱'
+
+'🔥 Look who applied Product Hunt discount to @voicybot! Enjoy your first 100,000 Google Speech seconds at 50% the price! 🦄'
