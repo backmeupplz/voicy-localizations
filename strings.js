@@ -76,7 +76,7 @@ const localize = new Localize({
   },
   '🔥 Look who applied Product Hunt discount to @voicybot! Enjoy your first 100,000 Google Speech seconds at 50% the price! 🦄': {
     'en': '🔥 Look who applied Product Hunt discount to @voicybot! Enjoy your first 100,000 Google Speech seconds at 50% the price! 🦄',
-    'ru': '🔥 Смотрите, кто использовал скидку с Product Hunt в @voicybot! Наслаждайтесь первыми 100,000 Google Speech секундами с 50% скидкой! 🦄',
+    'ru': '🔥 Смотрите, кто использовал скидку с Product Hunt в @voicybot! Наслаждайтесь первыми 100,000 секундами распознавания Google Speech с 50% скидкой! 🦄',
   },
 });
 
