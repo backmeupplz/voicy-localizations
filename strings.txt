@@ -44,6 +44,6 @@
 
 '🔥 Look who applied Product Hunt discount to @voicybot! Enjoy your first 100,000 Google Speech seconds at 50% the price! 🦄'
 
-'🔑 Great! *Voicy* will now respond only to command calls sent by admins in this chat.'
+'🔑 Great! *Voicy* will now respond only to command calls sent by *admins* in this chat.'
 
-🔑 Great! *Voicy* will now respond only to command calls from anyone in this chat.
+🔑 Great! *Voicy* will now respond only to command calls from *anyone* in this chat.

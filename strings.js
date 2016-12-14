@@ -82,13 +82,13 @@ const localize = new Localize({
     'en': '🔥 Look who applied Product Hunt discount to @voicybot! Enjoy your first 100,000 Google Speech seconds at 50% the price! 🦄',
     'ru': '🔥 Смотрите, кто использовал скидку с Product Hunt в @voicybot! Наслаждайтесь первыми 100,000 секундами распознавания Google Speech с 50% скидкой! 🦄',
   },
-  '🔑 Great! *Voicy* will now respond only to command calls sent by admins in this chat.': {
-    'en': '🔑 Great! *Voicy* will now respond only to command calls sent by admins in this chat.',
-    'ru': '🔑 Чудно! *Voicy* теперь реагирует только на комманды, посланные только админами, в этом чате.',
+  '🔑 Great! *Voicy* will now respond only to command calls sent by *admins* in this chat.': {
+    'en': '🔑 Great! *Voicy* will now respond only to command calls sent by *admins* in this chat.',
+    'ru': '🔑 Чудно! *Voicy* теперь реагирует только на команды, посланные *только админами*, в этом чате.',
   },
-  '🔑 Great! *Voicy* will now respond only to command calls from anyone in this chat.': {
-    'en': '🔑 Great! *Voicy* will now respond only to command calls from anyone in this chat.',
-    'ru': '🔑 Чудно! *Voicy* теперь реагирует на комманды, посланные любыми пользователями, в этом чате.',
+  '🔑 Great! *Voicy* will now respond only to command calls from *anyone* in this chat.': {
+    'en': '🔑 Great! *Voicy* will now respond only to command calls from *anyone* in this chat.',
+    'ru': '🔑 Чудно! *Voicy* теперь реагирует на команды, посланные *любыми пользователями*, в этом чате.',
   },
 });
 
