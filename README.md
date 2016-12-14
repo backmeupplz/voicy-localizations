@@ -24,3 +24,4 @@ Please note that all contributors whos translations were accepted will receive 1
 
 # As seen on
 [![Habrahabr](/img/habr.png?raw=true)](https://habrahabr.ru/post/316824/)
+[![Spark](/img/spark.png?raw=true)](https://spark.ru/startup/voicy/blog/19008/kak-zapustit-proekt-v-odinochku/)
