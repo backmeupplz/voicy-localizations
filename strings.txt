@@ -1,49 +1,53 @@
-/**
- * Please note that this file is all english phrases to be translated to other languages. Feel free to send translated
- * files to https://telegram.me/borodutch. Also please make sure that you don't remove any system characters like `_` or `*`.
- * Aside of this, you will also encounter placeholders like `[1]` and `[2]` — please keep them in translations as well. Thanks!
- */
+"👋 Hello there! *Voicy* is a voice recognition bot that converts all voice messages and audio files (.ogg, .flac, .wav, .mp3) it gets into text.\n\n*Voicy* supports two voice recognition engines: wit.ai (free) and Google Speech (more accurate). Initialy it's set to use wit.ai but you can switch to Google Speech anytime in /engine\n\nFor starters, you got *60 seconds* of Google Speech voice recognition for free. If you will need more Google Speech time, you can always purchase it here:\nhttps://pay.voicybot.com/$[1]\n\n...or just use free wit.ai forever 😀"
 
-'👋 Hello there! *Voicy* is a voice recognition bot that converts all voice messages and audio files (.ogg, .flac, .wav, .mp3) it gets into text. Please, don\'t forget to set recognition language using /language command.\n\n*Voicy* supports two voice recognition engines: wit.ai (free) and Google Speech (more accurate). Initialy it\'s set to use wit.ai but you can switch to Google Speech anytime in /engine\n\nFor starters, you got *60 seconds* of Google Speech voice recognition for free. If you will need more Google Speech time, you can always purchase it here:\nhttps://pay.voicybot.com/$[1]\n\n...or just use free wit.ai forever 😀'
+"👋 Hello there! *Voicy* is a voice recognition bot that converts all voice messages and audio files (.ogg, .flac, .wav, .mp3) it gets into text.\n\n*Voicy* supports two voice recognition engines: wit.ai (free) and Google Speech (more accurate). Initialy it's set to use wit.ai but you can switch to Google Speech anytime in /engine\n\nSo far you have *$[1] seconds* of Google Speech voice recognition left. If you will need more Google Speech time, you can always purchase it here:\nhttps://pay.voicybot.com/$[2]\n\n...or just use free wit.ai forever 😀"
 
-'👋 Hello there! *Voicy* is a voice recognition bot that converts all voice messages and audio files (.ogg, .flac, .wav, .mp3) it gets into text. Please, don\'t forget to set recognition language using /language command.\n\n*Voicy* supports two voice recognition engines: wit.ai (free) and Google Speech (more accurate). Initialy it\'s set to use wit.ai but you can switch to Google Speech anytime in /engine\n\nSo far you have *$[1] seconds* of Google Speech voice recognition left. If you will need more Google Speech time, you can always purchase it here:\nhttps://pay.voicybot.com/$[2]\n\n...or just use free wit.ai forever 😀'
+"🎉 Unfortunately, being the most superior voice recognition engine, Google Speech is not free. If you want to keep using free wit.ai for voice recognition, no need to do anything. However, if you want to use Google Speech you have to cover it's costs.\n\nThis chat has *$[1] seconds* of Google Speech voice recognition left.\n\nAnybody can buy more Google Speech seconds for the price of *$0.4 per 200 seconds* here:\nhttps://pay.voicybot.com/$[2]."
 
-'🎉 Unfortunately, being the most superior voice recognition engine, Google Speech is not free. If you want to keep using free wit.ai for voice recognition, no need to do anything. However, if you want to use Google Speech you have to cover it\'s costs.\n\nThis chat has *$[1] seconds* of Google Speech voice recognition left.\n\nAnybody can buy more Google Speech seconds for the price of *$0.4 per 200 seconds* here:\nhttps://pay.voicybot.com/$[2].'
+"🎉 Unfortunately, being the most superior voice recognition engine, Google Speech is not free. If you want to switch to free wit.ai for voice recognition, please do so in /engine. However, if you want to stick to Google Speech you have to cover it's costs.\n\nThis chat has *$[1] seconds* of Google Speech voice recognition left.\n\nAnybody can buy more Google Speech seconds for the price of *$0.4 per 200 seconds* here:\nhttps://pay.voicybot.com/$[2]."
 
-'🎉 Unfortunately, being the most superior voice recognition engine, Google Speech is not free. If you want to switch to free wit.ai for voice recognition, please do so in /engine. However, if you want to stick to Google Speech you have to cover it\'s costs.\n\nThis chat has *$[1] seconds* of Google Speech voice recognition left.\n\nAnybody can buy more Google Speech seconds for the price of *$0.4 per 200 seconds* here:\nhttps://pay.voicybot.com/$[2].'
+"😮 It looks like this chat has *no more seconds* of Google Speech voice recognition left! But no worries — we have automatically switched you to the free wit.ai so that no voice messages are getting lost. Don't forget to setup your /language.\n\nHowever if you would like to keep using Google Speech you will have to switch back in /engine and cover it's costs 💰\n\nAnybody can buy more seconds for the price of *$0.4 per 200 seconds* here:\nhttps://pay.voicybot.com/$[1]."
 
-'😮 It looks like this chat has *no more seconds* of Google Speech voice recognition left! But no worries — we have automatically switched you to the free wit.ai so that no voice messages are getting lost. Don\'t forget to setup your /language.\n\nHowever if you would like to keep using Google Speech you will have to switch back in /engine and cover it\'s costs 💰\n\nAnybody can buy more seconds for the price of *$0.4 per 200 seconds* here:\nhttps://pay.voicybot.com/$[1].'
+"😎 *Voicy* converts speech to text from any voice messages and audio files (.ogg, .flac, .wav, .mp3) it receives. You can either talk to *Voicy* in the private chat or add it to a group.\n\n/help — Shows this message 😱\n/engine — Lets you pick a voice recognition engine: wit.ai (free) or Google Speech (more accurate) ⚙\n/language — Lets you pick a voice recognition language 📣\n/balance — Shows how many Google Speech voice recognition seconds are left for this chat 🎉\n/files — Toggles if the bot should attempt to convert audio files or just ignore them 📁\n\nLike this bot? Leave a review here: https://telegram.me/storebot?start=voicybot\n\nAddress any concerns and questions to my creator — @borodutch 🦄"
 
-'😎 *Voicy* converts speech to text from any voice messages and audio files (.ogg, .flac, .wav, .mp3) it receives. You can either talk to *Voicy* in the private chat or add it to a group.\n\n/help — Shows this message 😱\n/engine — Lets you pick a voice recognition engine: wit.ai (free) or Google Speech (more accurate) ⚙\n/language — Lets you pick a voice recognition language 📣\n/balance — Shows how many Google Speech voice recognition seconds are left for this chat 🎉\n\nLike this bot? Leave a review here: https://telegram.me/storebot?start=voicybot\n\nAddress any concerns and questions to my creator — @borodutch 🦄'
+"😎 *Voicy* converts speech to text from any voice messages and audio files (.ogg, .flac, .wav, .mp3) it receives. You can either talk to *Voicy* in the private chat or add it to a group.\n\n/help — Shows this message 😱\n/engine — Lets you pick a voice recognition engine: wit.ai (free) or Google Speech (more accurate) ⚙\n/language — Lets you pick a voice recognition language 📣\n/balance — Shows how many Google Speech voice recognition seconds are left for this chat 🎉\n/lock — Toggles lock or unlock of non-admins using commands 🔑\n/files — Toggles if the bot should attempt to convert audio files or just ignore them 📁\n\nLike this bot? Leave a review here: https://telegram.me/storebot?start=voicybot\n\nAddress any concerns and questions to my creator — @borodutch 🦄"
 
-'😎 *Voicy* converts speech to text from any voice messages and audio files (.ogg, .flac, .wav, .mp3) it receives. You can either talk to *Voicy* in the private chat or add it to a group.\n\n/help — Shows this message 😱\n/engine — Lets you pick a voice recognition engine: wit.ai (free) or Google Speech (more accurate) ⚙\n/language — Lets you pick a voice recognition language 📣\n/balance — Shows how many Google Speech voice recognition seconds are left for this chat 🎉\n/lock — Toggles lock or unlock of non-admins using commands 🔑\n\nLike this bot? Leave a review here: https://telegram.me/storebot?start=voicybot\n\nAddress any concerns and questions to my creator — @borodutch 🦄'
+"👋 Please, select the engine of speech recognition. Google Speech is more accurate, private (your messages will never go public), support audio longer than 50 seconds, but not free. Wit.ai is less accurate, public (your messages go to wit.ai public database), free, but doesn't support audio longer than 50 seconds.\n\nThey also have different list of supported languages:\n\n*wit.ai*: `Albanian, Arabic, Azerbaijani, Bengali, Bosnian, Bulgarian, Burmese, Catalan, Chinese, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, Georgian, German, Greek, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Italian, Japanese, Korean, Latin, Lithuanian, Macedonian, Malay, Norwegian, Persian, Polish, Portuguese, Romanian, Russian, Serbian, Slovak, Slovenian, Spanish, Swahili, Swedish, Tagalog, Tamil, Thai, Turkish, Ukrainian and Vietnamese.`\n\n*Google Speech*: `Afrikaans, Indonesian, Malay, Catalan, Czech, Danish, German, English (Australia, Canada, United Kingdom, India, Ireland, New Zealand, Philippines, South Africa, United States), Spanish (Argentina, Bolivia, Chile, Colombia, Costa Rica, Ecuador, El Salvador, Spain, United States, Guatemala, Honduras, Mexico, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Dominican Republic, Uruguay, Venezuela), Basque,  Filipino, French, Galician, Croatian, Zulu, Icelandic, Italian, Lithuanian, Hungarian, Dutch, Norwegian Bokmål, Polish, Portuguese (Brazil, Portugal), Romanian, Slovak, Slovenian, Finnish, Swedish, Vietnamese, Turkish, Greek, Bulgarian, Russian, Serbian, Ukrainian, Hebrew, Arabic (Israel, Jordan, United Arab Emirates, Bahrain, Algeria, Saudi Arabia, Iraq, Kuwait, Morocco, Tunisia, Oman, State of Palestine, Qatar, Lebanon, Egypt), Persian, Hindi, Thai, Korean, Mandarin (Traditional, Taiwan; Simplified, Hong Kong; Simplified, China), Cantonese (Traditional, Hong Kong), Japanese (Japan).`"
 
-'👋 Please, select the engine of speech recognition. Google Speech is more accurate, private (your messages will never go public), support audio longer than 50 seconds, but not free. Wit.ai is less accurate, public (your messages go to wit.ai public database), free, but doesn\'t support audio longer than 50 seconds.\n\nThey also have different list of supported languages:\n\n*wit.ai*: `Albanian, Arabic, Azerbaijani, Bengali, Bosnian, Bulgarian, Burmese, Catalan, Chinese, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, Georgian, German, Greek, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Italian, Japanese, Korean, Latin, Lithuanian, Macedonian, Malay, Norwegian, Persian, Polish, Portuguese, Romanian, Russian, Serbian, Slovak, Slovenian, Spanish, Swahili, Swedish, Tagalog, Tamil, Thai, Turkish, Ukrainian and Vietnamese.`\n\n*Google Speech*: `Afrikaans, Indonesian, Malay, Catalan, Czech, Danish, German, English (Australia, Canada, United Kingdom, India, Ireland, New Zealand, Philippines, South Africa, United States), Spanish (Argentina, Bolivia, Chile, Colombia, Costa Rica, Ecuador, El Salvador, Spain, United States, Guatemala, Honduras, Mexico, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Dominican Republic, Uruguay, Venezuela), Basque,  Filipino, French, Galician, Croatian, Zulu, Icelandic, Italian, Lithuanian, Hungarian, Dutch, Norwegian Bokmål, Polish, Portuguese (Brazil, Portugal), Romanian, Slovak, Slovenian, Finnish, Swedish, Vietnamese, Turkish, Greek, Bulgarian, Russian, Serbian, Ukrainian, Hebrew, Arabic (Israel, Jordan, United Arab Emirates, Bahrain, Algeria, Saudi Arabia, Iraq, Kuwait, Morocco, Tunisia, Oman, State of Palestine, Qatar, Lebanon, Egypt), Persian, Hindi, Thai, Korean, Mandarin (Traditional, Taiwan; Simplified, Hong Kong; Simplified, China), Cantonese (Traditional, Hong Kong), Japanese (Japan).`'
+"👍 Now *Voicy* uses *$[1]* in this chat. Thank you! Don't forget to set /language."
 
-'👍 Now *Voicy* uses *$[1]* in this chat. Thank you! Don\'t forget to set /language.'
+"👋 Please select the language of speech recognition"
 
-'👋 Please select the language of speech recognition for $[1].'
+"👋 Please select the language of speech recognition for $[1]."
 
-'👋 Please select the language of speech recognition for wit.ai.'
+"👋 Please select the language of speech recognition for wit.ai."
 
-'👍 Now *Voicy* speaks *$[1]* (wit.ai) in this chat. Thank you!'
+"👍 Now *Voicy* speaks *$[1]* (wit.ai) in this chat. Thank you!"
 
-'👋 Please select the language of speech recognition for Google Speech.'
+"👋 Please select the language of speech recognition for Google Speech."
 
-'👍 Now *Voicy* speaks *$[1]* (Google Speech) in this chat. Thank you!'
+"👍 Now *Voicy* speaks *$[1]* (Google Speech) in this chat. Thank you!"
 
-'😮 You didn\'t have enough seconds of Google Speech voice recognition left to convert this voice message! But no worries — we have automatically switched you to the free wit.ai so that no voice messages are getting lost. Don\'t forget to setup your /language.'
+"😮 You didn't have enough seconds of Google Speech voice recognition left to convert this voice message! But no worries — we have automatically switched you to the free wit.ai so that no voice messages are getting lost. Don't forget to setup your /language."
 
-'_👮 I can\'t recognize voice messages larger than 20 megabytes._'
+"_👮 I can't recognize voice messages larger than 20 megabytes_"
 
-'_🦄 Voice recognition is initiated..._'
+"_🦄 Voice recognition is initiated..._"
 
-'_👮 Please, speak clearly, I couldn\'t recognize that_'
+"_👮 Please, speak clearly, I couldn't recognize that_"
 
-'😅 Looks like you have already applied Product Hunt discount. Your first 100,000 Google Speech seconds are 50% off. Enjoy! 🐱'
+"_👮 I couldn't recognize that_"
 
-'🔥 Look who applied Product Hunt discount to @voicybot! Enjoy your first 100,000 Google Speech seconds at 50% the price! 🦄'
+"😅 Looks like you have already applied Product Hunt discount. Your first 100,000 Google Speech seconds are 50% off. Enjoy! 🐱"
 
-'🔑 Great! *Voicy* will now respond only to command calls sent by *admins* in this chat.'
+"🔥 Look who applied Product Hunt discount to @voicybot! Enjoy your first 100,000 Google Speech seconds at 50% the price! 🦄"
 
-🔑 Great! *Voicy* will now respond only to command calls from *anyone* in this chat.
+"🔑 Great! *Voicy* will now respond only to command calls sent by *admins* in this chat."
+
+"🔑 Great! *Voicy* will now respond only to command calls from *anyone* in this chat."
+
+"_👮 Wit.ai cannot recognize voice messages longer than 50 seconds_"
+
+"📁 Wonderful! *Voicy* will *ignore* all audio files in this chat since now."
+
+"📁 Wonderful! *Voicy* will *try to recognize* all audio files in this chat since now."

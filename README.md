@@ -5,18 +5,18 @@ This repository contains all the strings used in this bot with an instrument to 
 
 Please follow the same `strings.js` file internal format:
 ```javascript
-const localize = new Localize({
-  'potato': {
-    'en': 'potato',
-    'ru': 'картошка',
-    'fr': 'pomme de terre'
+{
+  "potato": {
+    "en": "potato",
+    "ru": "картошка",
+    "fr": "pomme de terre"
   },
-  'tomato': {
-    'en': 'tomato',
-    'ru': 'помидор',
-    'fr': 'tomate'
+  "tomato": {
+    "en": "tomato",
+    "ru": "помидор",
+    "fr": "tomate"
   },
-});
+}
 ```
 Alernatively, you can fetch `strings.txt`, translate all phrases from there to your language, and send the resulting file to [@borodutch](https://telegram.me/borodutch). In this case, please, make sure that your language haven't already been translated in `strings.js`.
 
