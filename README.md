@@ -27,3 +27,4 @@ Please note that all contributors whos translations were accepted will receive 1
 [![Spark](/img/spark.png?raw=true)](https://spark.ru/startup/voicy/blog/19008/kak-zapustit-proekt-v-odinochku/)
 [![Reddit](/img/reddit.png?raw=true)](https://redd.it/5iduzy)
 [![Bot Store](/img/bs.png?raw=true)](https://storebot.me/bot/voicybot)
+[![Product Hunt](/img/ph.png?raw=true)](https://www.producthunt.com/posts/voicy)
