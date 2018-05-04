@@ -19,3 +19,6 @@ Please follow the same `strings.js` file internal format:
 }
 ```
 Alernatively, you can fetch `strings.txt`, translate all phrases from there to your language, and send the resulting file to [@borodutch](https://telegram.me/borodutch). In this case, please, make sure that your language haven't already been translated in `strings.js`.
+
+# License
+MIT — use for any purpose. Would be great if you could leave a note about the original developers. Thanks!
